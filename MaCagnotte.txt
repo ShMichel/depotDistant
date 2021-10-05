@@ -8,5 +8,5 @@ depotDistant connecté
 modification 2 depuis dossierLocal  5-10-21 14:36
 depotDistant connecté
 
-modification 3 depuis dossierLocal  5-10-21 14:45
-depotDistant non connecté
+modification 3 depuis depotDistant  5-10-21 14:45
+
