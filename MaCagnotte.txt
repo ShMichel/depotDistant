@@ -3,5 +3,10 @@ modification depuis GITHUB
 
 
 modification 1 depuis dossierLocal  5-10-21 12:15
+depotDistant connecté
 
 modification 2 depuis dossierLocal  5-10-21 14:36
+depotDistant connecté
+
+modification 3 depuis dossierLocal  5-10-21 14:45
+depotDistant non connecté
